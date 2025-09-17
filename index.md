@@ -9,3 +9,6 @@
 Example_variable <- c(1,3,7)
 Print(Example_variable)
 ```
+
+- [x] Task list created
+- [ ] Next stage
